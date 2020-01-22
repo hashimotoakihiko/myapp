@@ -1,3 +1,5 @@
 class Post < ApplicationRecord
-  def
+  def hello
+    p "hello, GitHub."
+  end
 end
